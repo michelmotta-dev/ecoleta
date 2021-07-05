@@ -9,20 +9,8 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+  <img alt="License" src="https://img.shields.io/github/license/michelmotta-dev/ecoleta">
   <br><br>
-
-
-# :book: Índice
-
-- [Sobre](#sobre)
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
-- [Como Usar](#como-usar)
-
-- [Como Contribuir](#como-contribuir)
-
   
 
 ## :bookmark: Sobre
@@ -45,9 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <h1 align="center">
     <img alt="Web" src=".github/Video.gif" width="900px">
-    Vídeo demonstrativo.
 </h1>
-
 
 ## :fire: Como usar
 
@@ -99,13 +85,24 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week**.
 
-## :memo: License
+### Autor
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+<a href="https://www.linkedin.com/in/michelmotta/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQG1ifyIF2OJlQ/profile-displayphoto-shrink_800_800/0/1599159843428?e=1630540800&v=beta&t=mYXxsO4WYBIUJC-495e5r6pAIHg0sgEY3rA1uZ0B6E0" width="100px;" alt=""/>
+ <br />
+ <sub><b>Michel Motta</b></sub></a> <a href="https://www.linkedin.com/in/michelmotta/" title="Nome"></a>
 
----
 
-<h4 align="center">
-    Made by <a href="https://www.linkedin.com/in/michelmotta/" target="_blank">Michel Motta</a>™
-</h4>
+[![Twitter Badge](https://img.shields.io/badge/-@michelmotta_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/michelmotta_)](https://twitter.com/michelmotta_) [![Linkedin Badge](https://img.shields.io/badge/-Michel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelmotta/)](https://www.linkedin.com/in/michelmotta/) 
+[![Gmail Badge](https://img.shields.io/badge/-michelmotta.dev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelmotta.dev@gmail.com)](mailto:michelmotta.dev@gmail.com)
+
+### Licença
+
+Este projeto está sob a licença [MIT](./LICENSE). </br>
+Feito com ❤️ por Michel Motta 👋🏽 Entre em contato!
+
+<h1 align="center">
+  <img alt="License" title="#license" src="https://img.shields.io/github/license/michelmotta-dev/ecoleta" />
+</h1>
+
 
